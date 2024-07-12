@@ -1,0 +1,1134 @@
+.box-item-profile-header {
+    width: fit-content;
+}
+#send-chatMessage{
+    padding: 15px 9px;
+}
+.no-brand {
+    text-align: center;
+}
+.container .tab-chuyen-khoa .mainServiceHomeNew .col-md-4 .border-HomeNew .svg-container{
+    position: absolute!important;
+    top: -25px!important;
+}
+.container .tab-chuyen-khoa .mainServiceHomeNew .col-md-4 .border-HomeNew .svg-containerNho{
+    position: absolute!important;
+    top: 6px!important;
+    right: unset!important;
+    left: 30px!important;
+}
+.zalo-follow-only-button iframe{
+    width: 90px!important;
+}
+.text-time{
+    font-weight: 800;
+}
+.box-dat-kham{
+    margin-top: 190px;
+}
+.pg-goto{
+    background-color: #e9ecef;
+    border: 1px solid #e9ecef;
+}
+#list-user td{
+    border: none;
+}
+.nav .nav-item .nav-link.active,.nav .nav-item .nav-link{
+    font-size: 22px;
+}
+.container .danh-sach-theo-chuyen-khoa .nav-item .nav-link.active{
+    font-size: 22px!important;
+    padding: 8px 16px!important;
+}
+.container .danh-sach-theo-chuyen-khoa .nav-item .nav-link{
+    padding: 8px 16px!important;
+}
+#chat-widget-all-online,#chat-widget-connected{
+    font-size: 14px!important;
+}
+.noti_number{
+    color: red;font-size: 16px;position: absolute;left: 52%;top: 50%;transform: translate(-50%,-50%);font-weight: bold
+}
+.box-about-doctor{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+.title-specialList-clinics{
+    -webkit-line-clamp:2!important;
+    font-size: 18px!important;
+}
+.header-mobile-clinics{
+    display: none;
+}
+.map_clinic_mobile{
+    display: none;
+}
+.text-address{
+    font-size: 16px;
+    margin: 0 10px;
+}
+.clinicDistanceSpan{
+    font-size: 16px;
+}
+.address-specialList-clinics{
+    font-size: 16px!important;
+}
+.time-working{
+    font-size: 14px!important;
+    margin-top: 5px;
+}
+.search-way{
+    width: fit-content;
+    font-size: 12px;
+    border-radius: 8px;
+    margin-top: 10px;
+    display: inline-block;
+    color: #0070E0;
+}
+.search-way:hover{
+    color: #0070E0;
+}
+.box-about-doctor-specialist{
+    min-height: 72px;
+    max-height: 72px;
+}
+.box-list-clinic-address{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#productInformation{
+    width: 32%;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    flex-wrap: nowrap;
+}
+#productInformation::-webkit-scrollbar {
+    width: 8px;
+}
+#productInformation::-webkit-scrollbar-track {
+    background: #ebebeb;
+    border-radius: 10px;
+}
+
+#productInformation::-webkit-scrollbar-thumb {
+    background: #a5a5a5;
+    border-radius: 10px;
+}
+#allAddressesMap,#allAddressesMapPharmacies,.box-content-map{
+    width: 68%;
+}
+.text-not-address{
+    font-size: 22px;
+}
+.content__item__image{
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+}
+.address-clinics,.distance{
+    font-size: 15px!important;
+}
+ .button-booking-specialList {
+    display: flex;
+     width: fit-content;
+    padding: 4px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    flex: 1 0 0;
+    border-radius: 8px;
+    background: var(--secon1, #088180);
+    color: #FFF;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.button-detail-specialList {
+    display: flex;
+    width: fit-content;
+    padding: 4px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    flex: 1 0 0;
+    border-radius: 8px;
+    background: var(--White-Light, #F3F3F3);
+    color: var(--secon1, #088180);
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: 1px solid var(--secon1, #088180);
+    margin-top: 8px;
+}
+.box-mobile-line-address{
+    display: none!important;
+}
+.gm-style .gm-style-iw-c{
+    max-width: 465px!important;
+}
+#modalBooking{
+    display: flex;
+}
+.box-info-item-map{
+    width: 65%;
+}
+.name-address-map{
+    font-size: 15px;
+}
+.box-img-item-map{
+    width: 35%;
+}
+.gm-ui-hover-effect{
+    width: 31px!important;
+    height: 31px!important;
+}
+.gm-style-iw-ch{
+    padding-top: 0px!important;
+}
+.gm-ui-hover-effect span{
+    margin: 0px!important;
+}
+.swiper-slide-height{
+    display: inline-grid;
+    height: auto;
+}
+.mySwiperMap,.mySwiperMapPharmacies{
+    margin-top: -240px;
+}
+@media (max-width: 1400px) {
+    .header .header-detail--left .back h5 {
+        font-size: 16px;
+    }
+
+    header h2, .field input, .flea-text {
+        font-size: 18px;
+    }
+
+    .box-header-market, .header-3-pc {
+        max-width: 90%;
+    }
+
+    .container .flea-content {
+        font-size: 32px;
+    }
+
+    .flea-button {
+        font-size: 14px;
+    }
+
+    .box-content-market {
+        max-width: 95%;
+    }
+
+    #productsAdsPlan1 .col-md-4, #productsAdsPlan2 .col-md-4, #productsAdsPlan3 .col-md-4 {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .product-item {
+        margin: 0px 0px 20px 0px !important;
+    }
+
+    .col-md-4.col-6 .product-item .content-pro .location-pro {
+        font-size: 15px;
+    }
+
+    .col-md-4.col-6 .product-item .content-pro .prices-pro, .product-item .content-pro .price-pro, .container .location-info, .container .hanoi {
+        font-size: 20px;
+    }
+
+    .product-item .content-pro .price-pro {
+        padding-bottom: 5px;
+    }
+
+    .container .name {
+        font-size: 32px;
+    }
+
+    .news-content {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .container .img-info {
+        width: 120px;
+    }
+
+    .header-3-pc {
+        max-width: 97%;
+    }
+
+    #examination-scene {
+        max-width: 90%;
+    }
+
+    .text-content-product {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .box-header-market {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 992px) {
+    .banner {
+        margin-top: 65px;
+    }
+
+    .container {
+        max-width: 90%;
+    }
+
+    .main-header .krm-search-home {
+        width: 300px;
+        padding: 10px 13px 10px 43px;
+    }
+
+    .header-center a, .container .mainServiceHomeNew span {
+        text-align: center;
+    }
+
+    .header-left {
+        width: 145px;
+    }
+
+    .main-header .krm-label-search {
+        padding: 10px 17px;
+    }
+
+    .container .mainServiceHomeNew .border-HomeNew span {
+        text-align: center;
+    }
+
+    .container #map-location .text-map--homeNew h3, .find-my-medicine-2 .frame .text-wrapper-5, .find-my-medicine-2 .frame .text-wrapper-4,
+    .container .danh-sach-theo-chuyen-khoa .specialList-clinics .border-specialList .specialList-clinics--main .title-specialList-clinics{
+        font-size: 16px !important;
+    }
+
+    .container #map-location .text-map--homeNew p, .max-6-line-title p, .contact_doctor,.container .detail-clinic-theo-chuyen-khoa-title .border-specialList .specialList-clinics--main .time-working,
+    .container .detail-clinic-theo-chuyen-khoa-title .border-specialList .specialList-clinics--main .group-button .button-follow-specialList,
+    .container .detail-clinic-theo-chuyen-khoa-title .border-specialList .specialList-clinics--main .group-button .button-direct-specialList,
+    .container .danh-sach-theo-chuyen-khoa .nav-item .nav-link.active{
+        font-size: 14px !important;
+    }
+
+    .max-6-line-title p {
+        height: 110px;
+    }
+
+    .max-5-line-title .fs-12px p {
+        max-height: 80px;
+    }
+
+    .container .titleServiceHomeNew, .title-clinics h2, .container .flea-content, .ac-text_content,.container .danh-sach-theo-chuyen-khoa .title-Danh-sach,
+    .container .detail-clinic-theo-chuyen-khoa-title .title-detail-clinic,.background-image_Clinics .container .title-list-clinic,
+    .fs-32px{
+        font-size: 24px !important;
+    }
+
+    .krm-title-news, .text-font-24, .text-content-product, .find-my-medicine-2 .frame .text-wrapper-3,
+    .container .detail-clinic-theo-chuyen-khoa-title .border-specialList .specialList-clinics--main .title-specialList-clinics{
+        font-size: 18px !important;
+    }
+
+    footer {
+        height: 100%;
+        padding: 20px;
+        background-size: auto;
+        padding-bottom: 40px;
+    }
+
+    .krm-footer-fs {
+        margin-right: 5px !important;
+        font-size: 14px !important;
+    }
+
+    .krm-footer-fs svg {
+        width: 30px;
+        height: 30px;
+    }
+
+    .box-footer-mobile {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .item-end-footer {
+        width: 100% !important;
+        max-width: 100% !important;
+        padding: 0px !important;
+    }
+
+    .header-center a, .flea-text-gray, .product-item .content-pro .location-pro, .no-brand, .font-12-mobi, .find-my-medicine .frame .text-wrapper-2,
+    .medicine-search--right .div-wrapper a,.header-center,.container .tab-chuyen-khoa .mainServiceHomeNew span,.product-item .content-pro .location-pro p,
+    .text-cmt,.address-specialList-clinics div,.address-specialList-clinics span{
+        font-size: 14px;
+    }
+
+    .container #find-doctor--homeNew #myTabContent .product-item .location-pro p, .product-item .content-pro .name-product a,
+    .text-ads-plan, .container .location-info, .container .hanoi, .find-my-medicine .frame .div-2 p, .find-my-medicine .frame .text-wrapper-2,
+    .text-gray,.product-item .content-pro .name-pro a,.nav .nav-item .nav-link.active {
+        font-size: 16px;
+    }
+
+    .line-service p {
+        height: 63px !important;
+    }
+
+    .header-detail, .main-header {
+        display: none !important;
+    }
+
+    .header-mobile {
+        display: block !important;
+    }
+
+    .mt-200 {
+        margin-top: 75px !important;
+    }
+
+    .w-100px {
+        width: 80px;
+        height: 24px;
+    }
+
+    .box-content-market {
+        max-width: 100%;
+    }
+
+    #inputProductMin {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .container .mt-88 {
+        margin-top: 55px;
+    }
+
+    .container .flea-content {
+        padding-right: 0px;
+        width: 150px;
+        max-width: 150px;
+    }
+
+    .line-item-menu-header {
+        padding-right: 0px;
+        max-width: 410px;
+        padding-left: 0;
+    }
+
+    .container .name-product {
+        color: white;
+    }
+
+    .krm-title-footer, .product-item .content-pro .price-pro, .container .name,.text-title-satisfied,.title-specialList-clinics {
+        font-size: 18px !important;
+    }
+
+    button.krm-button-submit {
+        height: 45px !important;
+        width: 100px !important;
+    }
+
+    .right-footer-top {
+        padding: 0px !important;
+    }
+
+    .box-wish-list {
+        max-width: 95%;
+    }
+
+    .price-input .field {
+        height: 35px;
+    }
+
+    .field input {
+        margin-left: 0;
+    }
+
+    .box-my-store {
+        max-width: 100%;
+    }
+
+    .container .img-info {
+        width: 90px;
+        height: 90px;
+    }
+
+    .flea-buttons {
+        height: auto;
+        max-width: 100%;
+        margin-top: 10px;
+    }
+
+    #filter {
+        height: auto;
+        margin-bottom: 0px;
+    }
+
+    .recruitment-details h3 {
+        font-size: 18px;
+    }
+
+    .recruitment-details--title {
+        font-size: 22px;
+        margin-bottom: 0px !important;
+    }
+
+    .news-content,.other-clinics .title {
+        font-size: 24px;
+    }
+
+    .box-detail-news {
+        max-width: 98%;
+    }
+
+    .list--doctor p, .list-title .list--doctor p,.recruitment-details--title {
+        font-size: 20px !important;
+    }
+
+    .find-my-medicine .frame .div {
+        padding: 0px 10px !important;
+    }
+
+    .find-my-medicine .frame .text-wrapper-2 {
+        text-align: start !important;
+    }
+
+    .find-my-medicine-2 .frame .div-wrapper {
+        padding: 16px 20px !important;
+    }
+
+    .header_comment, .title-my-personal-doctor {
+        font-size: 24px !important;
+    }
+
+    .text-header-comment {
+        min-width: 200px;
+    }
+
+    .medicine {
+        max-width: 100%;
+    }
+
+    .medicine-search--left .title {
+        padding-left: 0px;
+        margin-top: 13px;
+        padding-right: 0;
+    }
+
+    .medicine-search--right .div-wrapper a {
+        padding: 0px 5px;
+    }
+
+    .medicine-search--center .shopping-bag {
+        margin-right: 0px;
+    }
+
+    .product-item .SeeDetail a {
+        font-size: 15px;
+    }
+
+    .modal.show .modal-dialog {
+        max-width: 100%;
+    }
+
+    #modal_login {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #staticBackdrop .modal-dialog .modal-content .modal-body .popup .form{
+        margin: auto;
+    }
+    .no-data{
+        font-size: 20px;
+    }
+    .text-note-time{
+        font-size: 12px;
+    }
+    .text-short-description{
+        white-space: unset!important;
+        height: 63px!important;
+    }
+    .container .tab-chuyen-khoa .mainServiceHomeNew .col-md-4 .border-HomeNew img{
+        width: 45px!important;
+        height: 45px!important;
+        margin-right: 10px!important;
+    }
+    .box-sp-medicine{
+        padding: 5px!important;
+    }
+    .contact_doctor{
+        padding: 5px 15px!important;
+    }
+    .time-working{
+        margin-top: 5px;
+    }
+    .container .danh-sach-theo-chuyen-khoa .specialList-clinics .border-specialList .specialList-clinics--main .group-button .button-booking-specialList,
+    .container .danh-sach-theo-chuyen-khoa .specialList-clinics .border-specialList .specialList-clinics--main .group-button .button-detail-specialList,
+    .container .danh-sach-theo-chuyen-khoa .product-item .content-pro .location-pro p,.container .danh-sach-theo-chuyen-khoa .product-item .content-pro .price-pro,
+    .col-md-4.col-6 .product-item .content-pro .prices-pro{
+        font-size: 16px!important;
+    }
+    .item-btn-specialist {
+        padding: 0px !important;
+        text-align: center;
+    }
+    .border-specialList{
+        padding: 0px!important;
+    }
+    .other-clinics .title{
+        margin-bottom: 16px;
+    }
+    .line-dk-btn {
+        margin-right: 20px !important;
+    }
+    #show_inf #inf-doctor #about h5{
+        font-size: 20px;
+    }
+    #show_inf #inf-doctor #about .dess p,#show_inf #inf-doctor #about .dess span,.name-user-review,
+    .product-details .body .text-wrapper,.product-details .body .price,.product-details .body .brand-name .text-wrapper-3{
+        font-size: 16px;
+    }
+    #show_inf #inf-doctor #about .dess{
+        margin-top: 12px;
+    }
+    .fs-24px,#show_inf #inf-doctor #img_info #qr_code p{
+        font-size: 18px;
+    }
+    .product-details .body .brand-name .text-wrapper-2,.input-quantity{
+        font-size: 16px;
+        margin-right: 0;
+    }
+    .box-detail-sp{
+        max-width: 100%;
+    }
+    .product-price,.float-right{
+        font-size: 15px!important;
+    }
+    .text-price,.total-price,.value-total-price,.value-price,.select-memberFamily label,.border-booking-sv .font-weight-600 label{
+        font-size: 16px!important;
+    }
+    .text-price,.total-price{
+        font-weight: 800;
+    }
+    .container #recruitment-homeNew .title-recruitment--homeNew{
+        padding-top: 30px!important;
+    }
+    /*.box-item__content{*/
+    /*    flex-wrap: wrap;*/
+    /*}*/
+    /*.img-special-line{*/
+    /*    width: 100%;*/
+    /*}*/
+    /*.content__item__image{*/
+    /*    height: 100%;*/
+    /*}*/
+    .clinicDistanceSpan{
+        font-size: 14px;
+    }
+    .box-footer-md{
+        max-width: 93%;
+    }
+    .container .danh-sach-theo-chuyen-khoa .nav-item .nav-link{
+        padding: 12px 16px!important;
+        line-height: normal;
+    }
+    .box-dat-kham{
+        margin-top: 80px;
+    }
+    .specialList-clinics-mobile{
+        margin-top: 20px!important;
+    }
+    #qrContent svg{
+        width: 240px;
+        height: auto;
+    }
+    .input-quantity{
+        text-align: center;
+    }
+    .box-tv{
+        margin-top: 90px!important;
+    }
+    .text-point-membership{
+        margin-bottom: 20px;
+    }
+    .text-point-membership,#list-user .number{
+        font-size: 20px;
+    }
+    .username p,.points span,#writeReviewBtn{
+        font-size: 14px;
+    }
+    .box-shop-info{
+        max-width: 100%;
+    }
+    .recruitment-details--title a{
+        font-size: 18px;
+    }
+    .flea-buttons{
+        font-size: 13px;
+    }
+    .col-md-4.col-6 .product-item .content-pro .name-product .name-product--fleaMarket{
+        min-height: 45px;
+    }
+    .fa-2xl{
+        font-size: 1.7em;
+    }
+    .nav .nav-item .nav-link.active,.nav .nav-item .nav-link{
+        font-size: 16px;
+    }
+    .container .danh-sach-theo-chuyen-khoa .nav-item .nav-link.active{
+        padding: 12px 16px!important;
+    }
+    .box-about-doctor-specialist{
+        min-height: 63px;
+        max-height: 63px;
+    }
+    .background-image_Clinics{
+        margin-top: 70px!important;
+    }
+    .box-list-clinic-address{
+        flex-wrap: wrap-reverse;
+    }
+    #productInformation{
+        width: 100%;
+        flex-direction: row;
+        height: auto;
+        margin-top: 30px;
+    }
+    #allAddressesMap,#allAddressesMapPharmacies,.box-content-map{
+        width: 100%;
+        height: 900px!important;
+    }
+    .title-specialList-clinics{
+        font-size: 16px!important;
+    }
+    .text-not-address{
+        font-size: 18px;
+    }
+    .address-specialList-clinics{
+        margin: 10px 0;
+    }
+    .mySwiperMap,.mySwiperMapPharmacies{
+        margin-top: -277px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        max-width: 100%;
+    }
+    .background-img-clinic-mobile{
+        margin-top: 70px!important;
+    }
+    .krm-tieuDe-findDoctor, .container .font-18-mobi, .recruitment-details--title, .news-content, .ac-text_content, #show-doctor .list-title .list--doctor p,
+    .list--doctor p, .list--doctor p, .list-title .list--doctor p, .header_comment, .title-my-personal-doctor,.container .danh-sach-theo-chuyen-khoa .title-Danh-sach,
+    .container .detail-clinic-theo-chuyen-khoa-title .title-detail-clinic,.container .tab-chuyen-khoa .titleServiceHomeNew,
+    .fs-32px,.text-select-method{
+        font-size: 18px !important;
+    }
+
+    .container #myTabContent .product-item .content-pro .name-product a, .bg-tuyen-dung .border-radius-homeNew .krm-name-recruitment,
+    .product-item .content-pro .name-product a, .krm-title-news, .container .font-16-mobi, .find-my-medicine .frame .text-wrapper, .text-content-product,
+    .list-doctor .card .card-body a h5,.modal-content .modal-header .modal-title,
+    .container .detail-clinic-theo-chuyen-khoa-title .border-specialList .specialList-clinics--main .title-specialList-clinics,.title-specialList-clinics,
+    .text-title-satisfied,#show_inf #inf-doctor #img_info #qr_code p{
+        font-size: 16px !important;
+    }
+
+    .container #find-doctor--homeNew #myTabContent .product-item .location-pro p, .bg-tuyen-dung .border-radius-homeNew .show-learn-more,
+    .product-item .SeeDetail a, .krm-title-sub-news, .text-ads-plan, .product-item .content-pro .price-pro, .find-my-medicine .frame .div-2 p,
+    .find-my-medicine .frame .text-wrapper-2, .find-my-medicine .frame .text-wrapper-2, .color-Grey-Dark, .body-news p, .flea-content-product,
+    .ms-auto a, .find-my-medicine-2 .frame .text-wrapper-4, .find-my-medicine-2 .frame .text-wrapper-3 {
+        font-size: 14px !important;
+    }
+
+    .line-service p {
+        height: 55px !important;
+        -webkit-line-clamp: 3 !important;
+    }
+
+    .container #find-doctor--homeNew #myTabContent .product-item .img-pro .icon-chuyen-khoa img {
+        height: 20px !important;
+    }
+
+    .container .titleServiceHomeNew, .title-clinics h2, .container #recruitment-homeNew .title-recruitment--homeNew .krm-title-recruitment {
+        font-size: 20px !important;
+    }
+
+    .header-center a, .container .mainServiceHomeNew span, .container #recruitment-homeNew .title-recruitment--homeNew a,
+    .container .danh-sach-theo-chuyen-khoa .specialList-clinics .border-specialList .specialList-clinics--main .title-specialList-clinics{
+        font-size: 15px !important;
+    }
+
+    .product-item .content-pro .name-product a {
+        height: 62px !important;
+    }
+
+    .bg-tuyen-dung .border-radius-homeNew {
+        padding: 10px !important;
+    }
+
+    .footer-mobile-box {
+        padding-bottom: 40px;
+    }
+
+    .expand {
+        right: 0;
+        left: unset;
+    }
+
+    #widget-chat #chat-circle {
+        right: 20px;
+        width: 60px;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .product-item .content-pro .name-product .max-3-line-content-home {
+        height: 30px !important;
+    }
+
+    .container .mt-88 {
+        margin-top: 25px;
+    }
+
+    /*.mt-70 {*/
+    /*    margin-top: 40px !important;*/
+    /*}*/
+
+    #productsAdsPlan1 .col-lg-4, #productsAdsPlan2 .col-lg-4, #productsAdsPlan3 .col-lg-4 {
+        padding: 5px;
+    }
+
+    .product-item,.container .danh-sach-theo-chuyen-khoa .specialList-clinics .border-specialList .specialList-clinics--main .title-specialList-clinics {
+        margin: 0px 0px 10px 0px !important;
+    }
+
+    .flea-text {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .flea-text-gray,.address-specialList-clinics div,.address-specialList-clinics span {
+        font-size: 13px!important;
+        margin-bottom: 10px;
+    }
+
+    .price-input {
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+    header h2, .field input {
+        font-size: 16px;
+    }
+
+    .container .ac-email, .container .ac-nation {
+        padding: 10px 16px;
+        height: auto;
+    }
+
+    .ac-choose {
+        height: auto;
+        padding: 10px 16px 10px 8px;
+    }
+
+    .text-ads-plan {
+        text-align: center;
+    }
+
+    .container .img-info {
+        width: 80px;
+        height: 80px;
+    }
+
+    #examination-scene {
+        max-width: 100%;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .find-my-medicine .col-6 {
+        margin-bottom: 5px !important;
+    }
+
+    .max-6-line-title p {
+        height: auto;
+        max-height: 110px;
+    }
+
+    .box-detail-news .mb-30, .recruitment-details--title {
+        margin-bottom: 10px !important;
+    }
+
+    .medicine-search label, .form-control, .list-doctor .card-body .card-text_1,.modal-body .popup .form-element button {
+        font-size: 14px !important;
+    }
+
+    #inputSearchDoctor {
+        margin-top: 0px;
+    }
+
+    .find-my-medicine-2 .frame .div-wrapper {
+        padding: 12px 20px !important;
+    }
+
+    .list-doctor .card img {
+        height: auto !important;
+        min-height: unset !important;
+    }
+
+    .medicine-search--right .div-wrapper {
+        height: 40px;
+    }
+
+    .contact_doctor {
+        font-size: 12px !important;
+    }
+    .login-with-btn img{
+        width: 40px;
+        height: 40px;
+    }
+    .header-right .account_control{
+        font-size: 12px;
+    }
+    .modal-body .product-cart .title .title-name{
+        font-size: 13px!important;
+    }
+    .btnGetFile,.button-Reset-booking,.button-apply-booking{
+        font-size: 14px;
+    }
+    .text-short-description{
+        height: 40px!important;
+    }
+    .text-short-description p{
+        font-size: 14px;
+    }
+    .no-data{
+        font-size: 16px;
+    }
+    .box-ck-new-home{
+        margin-top: 80px!important;
+    }
+    .container .tab-chuyen-khoa .mainServiceHomeNew{
+        margin-top: 15px!important;
+    }
+    .container .tab-chuyen-khoa .mainServiceHomeNew .col-md-4 .border-HomeNew,.container .danh-sach-theo-chuyen-khoa .title-Danh-sach{
+        margin-bottom: 20px!important;
+    }
+    .contact_doctor{
+        padding: 2px 10px!important;
+    }
+    .container .danh-sach-theo-chuyen-khoa .nav-item .nav-link{
+        padding: 8px 16px!important;
+    }
+    .container .danh-sach-theo-chuyen-khoa .specialList-clinics .border-specialList .specialList-clinics--main .group-button .button-booking-specialList,
+    .container .danh-sach-theo-chuyen-khoa .specialList-clinics .border-specialList .specialList-clinics--main .group-button .button-detail-specialList,
+    .box-content-clinic,.container .danh-sach-theo-chuyen-khoa .product-item .content-pro .location-pro p,.container .danh-sach-theo-chuyen-khoa .product-item .content-pro .price-pro{
+        font-size: 14px!important;
+    }
+    .nav-header--homeNew,.nav-pills{
+        width: 100%;
+    }
+    .line-dk-btn{
+        margin-right: 8px!important;
+    }
+    .container .danh-sach-theo-chuyen-khoa .nav-item{
+        margin: 5px!important;
+    }
+    .container .detail-clinic-theo-chuyen-khoa-title .border-specialList .specialList-clinics--main .group-button .button-follow-specialList,
+    .container .detail-clinic-theo-chuyen-khoa-title .border-specialList .specialList-clinics--main .group-button .button-direct-specialList{
+        font-size: 13px!important;
+        padding: 10px 16px!important;
+        height: auto!important;
+        text-align: center;
+    }
+    .container .detail-clinic-theo-chuyen-khoa-title .border-specialList .specialList-clinics--main .group-button .btn-detail-clinic{
+        padding: 10px!important;
+    }
+    .other-clinics .title{
+        margin-bottom: 5px;
+        margin-top: 16px;
+        font-size: 18px;
+    }
+    .col-md-4.col-6 .product-item .content-pro .name-product .name-doctors{
+        min-height: auto!important;
+        height: auto!important;
+    }
+    .col-md-4.col-6 .product-item .img-pro .icon-ck{
+        height: 30px!important;
+    }
+    .clinics-list .clinics-header{
+        margin-bottom: 5px;
+        margin-top: 16px;
+    }
+    #show_inf #inf-doctor #about h5{
+        font-size: 18px;
+    }
+    #show_inf #inf-doctor #about .dess{
+        margin-top: 10px;
+    }
+    #show_inf #inf-doctor #about .dess p, #show_inf #inf-doctor #about .dess span, .name-user-review,.cmt {
+        font-size: 14px;
+    }
+    #show_inf #inf-doctor #about #opt_btn .button,#show_inf #inf-doctor #about #opt_btn .none-btn{
+        font-size: 14px;
+        padding: 10px 16px;
+    }
+    .recruitment-details--content{
+        margin-top: 16px;
+    }
+    .container .detail-clinic-theo-chuyen-khoa-title .border-specialList .specialList-clinics--main .group-button .button-follow-specialList-zalo{
+        height: 40px!important;
+    }
+    .content__item__image{
+        width: 100%;
+    }
+    .container .danh-sach-theo-chuyen-khoa .specialList-clinics .border-specialList .specialList-clinics--main .group-button .button-booking-specialList,
+    .container .danh-sach-theo-chuyen-khoa .specialList-clinics .border-specialList .specialList-clinics--main .group-button .button-detail-specialList{
+        height: 35px!important;
+    }
+    .content__item__image_detail{
+        height: 102px!important;
+    }
+    .time-kham{
+        margin-top: 20px;
+    }
+    #qr_code{
+        margin-bottom: 20px;
+        width: 65%;
+    }
+    #qrContent svg {
+        width: 160px;
+    }
+    #show_inf #inf-doctor #img_info #qr_code{
+        padding: 24px 0px;
+        gap: 10px;
+    }
+    #doctor_paginate ul{
+        flex-wrap: wrap;
+    }
+    .list-doctor .card{
+        margin-bottom: 18px;
+    }
+    .input-quantity{
+        width: 15% !important;
+    }
+    .flea-button{
+        height: auto;
+    }
+    .text-point-membership{
+        font-size: 16px;
+    }
+
+    .username p, .points span{
+        max-width: 200px;
+        width: 100%;
+    }
+    .gold-medal{
+        margin-left: 0px;
+    }
+    .fa-2xl{
+        font-size: 1.5em;
+    }
+    .nav .nav-item .nav-link.active,.nav .nav-item .nav-link{
+        font-size: 16px!important;
+    }
+    .noti_number{
+        font-size: 14px;left: 50%;top: 47%
+    }
+    .box-about-doctor{
+        margin-bottom: 10px;
+        min-height: 55px;
+        max-height: 55px;
+        font-size: 14px;
+    }
+    .address-specialList-clinics .text-address{
+        margin-bottom: 0px!important;
+    }
+    .container .danh-sach-theo-chuyen-khoa .nav-item .nav-link.active{
+        padding: 8px 16px!important;
+    }
+    #productInformation {
+        margin-top: 5px;
+    }
+    .box-desktop-line-address{
+        display: none!important;
+    }
+    .box-mobile-line-address{
+        display: flex!important;
+    }
+    .button-detail-specialList{
+        margin-top: 0px;
+    }
+    .img-special-line{
+        margin-right: 10px;
+    }
+    .gm-style .gm-style-iw-c{
+        max-width: 345px!important;
+        top: 305px!important;
+    }
+    .gm-style .gm-style-iw-tc::after{
+        display: none!important;
+    }
+    .box-info-item-map span{
+        font-size: 12px;
+    }
+    .name-address-map{
+        font-size: 14px;
+    }
+    .header_clinic_desktop,.bg-mobile-clinics{
+        display: none!important;
+    }
+    .header-mobile-clinics{
+        display: flex;
+    }
+    .text-phong-mall{
+        font-size: 16px!important;
+    }
+    .box-productInformation-clinic{
+        flex-direction: column!important;
+        height: 800px!important;
+        margin: 0px;
+    }
+    .specialList-clinics{
+        padding-left: 0px;
+        margin-top: 0px!important;
+    }
+    #productInformation::-webkit-scrollbar {
+        width: 3px;
+    }
+    #offcanvasRightMap{
+        width: 100%;
+    }
+    .map_clinic_desktop{
+        display: none;
+    }
+    .map_clinic_mobile{
+        display: inline-block;
+    }
+    #allAddressesMap, #allAddressesMapPharmacies{
+        height: 600px!important;
+    }
+    .mySwiperMap,.mySwiperMapPharmacies{
+        margin-top: -230px;
+    }
+    .text-map-item-address{
+        font-size: 14px;
+    }
+}
