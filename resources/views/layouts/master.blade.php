@@ -63,20 +63,20 @@
         } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-messaging.js";
 
         const firebaseConfig = {
-            apiKey: "AIzaSyAW-1uaHUA8tAaA3IQD9ypNkbVzFji88bE",
-            authDomain: "chat-firebase-de134.firebaseapp.com",
-            projectId: "chat-firebase-de134",
-            storageBucket: "chat-firebase-de134.appspot.com",
-            messagingSenderId: "867778569957",
-            databaseURL: 'https://chat-firebase-de134.firebaseio.com',
-            appId: "1:867778569957:web:7f3a6b87d83cefd8e8d60c"
+            apiKey: "AIzaSyDrLtqSO9UIhkx75W3bUSUU-sMOL_9DVUg",
+            authDomain: "kmed-chat.firebaseapp.com",
+            projectId: "kmed-chat",
+            storageBucket: "kmed-chat.appspot.com",
+            messagingSenderId: "152235382706",
+            appId: "1:152235382706:web:a7b254196ddacdad5576ab",
+            databaseURL: 'https://kmed-chat.firebaseio.com'
         };
 
         const app = initializeApp(firebaseConfig);
         const messaging = getMessaging();
 
         const key_pair_fire_base =
-            'BIKdl-B84phF636aS0ucw5k-KoGPnivJW4L_a9GNf7gyrWBZt--O9KcEzvsLl3h-3_Ld0rT8YFTsuupknvguW9s';
+            'BNQpgyP_R5v8x_2iJOZ5wSZ2eYHjzuuJvg-znSqZjHGpFiYn4t395mvHRxgk-GEDytj1DEbyLti2yUDlEhU27FY';
         getToken(messaging, {
             vapidKey: key_pair_fire_base
         }).then((currentToken) => {

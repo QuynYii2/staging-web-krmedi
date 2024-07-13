@@ -791,7 +791,7 @@
     async function updateFirebaseToken() {
         if (auth.currentUser) {
             try {
-                const token = await getToken(messaging, {vapidKey: 'BIKdl-B84phF636aS0ucw5k-KoGPnivJW4L_a9GNf7gyrWBZt--O9KcEzvsLl3h-3_Ld0rT8YFTsuupknvguW9s'});
+                const token = await getToken(messaging, {vapidKey: 'BNQpgyP_R5v8x_2iJOZ5wSZ2eYHjzuuJvg-znSqZjHGpFiYn4t395mvHRxgk-GEDytj1DEbyLti2yUDlEhU27FY'});
                 if (token) {
                     await setDoc(doc(database, 'users', auth.currentUser.uid), { push_token: token }, { merge: true });
                 }
